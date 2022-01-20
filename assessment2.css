@@ -1,0 +1,17 @@
+body {
+    background-color: #04a6eb;
+    color: #fdffff;/*文字の色が変わる*/
+    width: 500px;/*bodyを表示する場所の幅か*/
+    margin-right: auto;
+    margin-left: auto;/*境界線と要素間の余白のこと*/
+}
+
+button {/*buttonタグ用のデザイン*/
+    padding: 5px 20px;/*上下5, 左右20*/
+    
+    border-style: none;
+}
+input {
+
+    height: 20px;
+}
